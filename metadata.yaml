@@ -1,0 +1,46 @@
+_repo: Young-Peggy-McQueen_70826
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Goble, Warwick
+    birthdate: 1862
+    deathdate: 1943
+    gutenberg_agent_id: '25683'
+    url: http://www.gutenberg.org/2009/agents/25683
+    wikipedia: https://en.wikipedia.org/wiki/Warwick_Goble
+creator:
+  author:
+    agent_name: Stables, Gordon
+    aliases:
+    - Stables, William Gordon
+    - Stables, W. Gordon (William Gordon)
+    - Gordon-Stables, W.
+    birthdate: 1840
+    deathdate: 1910
+    gutenberg_agent_id: '4164'
+    url: http://www.gutenberg.org/2009/agents/4164
+    wikipedia: https://en.wikipedia.org/wiki/William_Gordon_Stables
+description: ''
+gutenberg_issued: '2023-05-21'
+identifiers:
+  gutenberg: '70826'
+language: en
+pgterms:marc905: 20220525062259gordon
+pgterms:marc906: '1900'
+pgterms:marc907: GB
+production_note: Al Haines, Chuck Greif and the Online Distributed Proofreading Team
+  at https://www.pgdp.net
+publication_note: '  $aUnited Kingdom :$bCollins, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shipwreck survival -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Islands of the Pacific -- Juvenile fiction'
+- !lcsh 'Traveling theater -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Young Peggy McQueen
+url: http://www.gutenberg.org/ebooks/70826
