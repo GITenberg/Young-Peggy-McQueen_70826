@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '25683'
     url: http://www.gutenberg.org/2009/agents/25683
     wikipedia: https://en.wikipedia.org/wiki/Warwick_Goble
+covers:
+- cover_type: archival
+  image_path: 70826-h/images/cover.jpg
 creator:
   author:
     agent_name: Stables, Gordon
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4164
     wikipedia: https://en.wikipedia.org/wiki/William_Gordon_Stables
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70826#Young-Peggy-McQueen
 gutenberg_issued: '2023-05-21'
 identifiers:
   gutenberg: '70826'
